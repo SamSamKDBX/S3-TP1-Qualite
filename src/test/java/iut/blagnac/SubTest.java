@@ -9,7 +9,7 @@ public class SubTest {
         Sub sub = new Sub();
         assertEquals(2, sub.sub(5, 3));
     }
-
+    
     @Test
     public void testSubNombreNegatif() {
         Sub sub = new Sub();
