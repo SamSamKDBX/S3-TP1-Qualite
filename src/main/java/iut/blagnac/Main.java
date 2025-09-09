@@ -1,7 +1,7 @@
 package iut.blagnac;
 
 public class Main {
-    // commentaire de samuel
+    // commentaire de samuel et severin
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
