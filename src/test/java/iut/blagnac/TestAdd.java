@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
 public class TestAdd {
+    // Commentaire de Samuel
     @Test
     public void addTest() {
         final int expected = 4;
